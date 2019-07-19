@@ -1,10 +1,28 @@
-// $("#content").css("color", "red");
-// $('.wrapper').css('color', 'red');
-// $('h1, h2').css('color', 'red');
-// $('article h2').css('color', 'red');
-// $('article').find('h2').css('color', 'red');
-// $('h1 + p').css('color', 'red');
-// $('*').css('color', 'red');
-// $('article > p').css('color', 'red');
-// $('article > *').css('color', 'red');
-$('article > p').css('color', 'red');
+// $('.box').css({
+//     'color': 'blue',
+//     'font-size': '12px',
+//     'margin-left': '10px'
+// });
+
+// $('.box').css({
+//     color: 'blue',
+//     fontSize: '12px',
+//     marginLeft: '10px'
+// });
+
+// $('#content').css('height', function(i, value){
+//     return parseFloat(value) * 1.2;
+// });
+
+// $('#content').addClass('name');
+// $('#content').removeClass('box');
+
+$('#content').toggle();
+
+// var altText = $('img').attr('alt');
+// $('img').attr('src', '/img/default.jpg');
+
+// $('a#my').attr({
+//     'href': 'http://google.com',
+//     'title': 'Bubu'
+// });
