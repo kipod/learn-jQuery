@@ -1,0 +1,10 @@
+{
+    "name": "learn_jquery",
+    "version": "1.0.0",
+    "description": "my personal learn project",
+    "dependencies": {
+        "jquery": "^3.4.1"
+    },
+    "repository": {},
+    "license": "CPAL-1.0"
+}
